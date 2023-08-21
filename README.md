@@ -1,4 +1,17 @@
 # E-BookStore_Tatvasoft
+<img src="bookstore.png" width="900">
+
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/alifiyakapasi07/)
+
+## Sections 📚
+✔️ Login\
+✔️ Register\
+✔️ User Profile\
+✔️ Book Page\
+✔️ Categories\
+✔️ Book Listing Page\
+✔️ Cart Page\
+✔️ Logout
 
 # Getting Started with Create React App
 
